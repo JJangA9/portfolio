@@ -38,7 +38,7 @@ lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 �
   사용자의 GPS를 기반으로 주변 식당을 Google Map에서 보여줍니다.
  3. Notification  
   대기시간을 요청했을때 또는 댓글이 달리면 상단바에 알림을 띄워줍니다.
- 4. Glide Library  
+ 4. [Glide](https://github.com/bumptech/glide) Library  
   식당 이미지를 나타내는데 사용됩니다.  
   
 - **Server**  
@@ -93,7 +93,7 @@ AR-app은 Unity를 이용한 AR 증강현실 어플리케이션입니다.
 
 ### 사용된 기술
 
-- Vuforia
+- [Vuforia](https://developer.vuforia.com/)
   > AR 프로그램을 개발하기 위해 Unity에 Vuforia를 적용했습니다.  
 - Assets
   > Robot Kyle, Fox, SimpleSky asset이 가상 캐릭터로 사용되었습니다.
