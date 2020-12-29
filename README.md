@@ -20,12 +20,13 @@
 - AR-app
 
 
-## [lunch-waiting](https://github.com/JJangA9/lunch-waiting)
-
+## [lunch-waiting](https://github.com/banksemi/lunch-waiting)
+`#glide` `#google_map` `#Naver API` `#crawling` `#mysQL` `#recyclerview`
 
 ### 요약  
 lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 어플리케이션입니다.  
 식당에 직접 가봐야 대기시간을 알 수 있다는 불편함에서 착안하여 앱으로 대기시간을 알 수 있도록 제작했습니다.   
+
 
 ### 사용된 기술
 
@@ -59,7 +60,7 @@ lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 �
 ---
 
 ## [todo-Application](https://github.com/JJangA9/TodoApplication)
-
+`#cardview` `#recyclerview` `#roomDB`
 
 ### 요약
 todo-Application은 유저의 일정을 저장하고 해당 날짜가 다가오면 알림을 띄워주는 어플입니다.  
@@ -84,7 +85,7 @@ todo-Application은 유저의 일정을 저장하고 해당 날짜가 다가오�
 ---
 
 ## [AR-app](https://github.com/JJangA9/AR-app)  
-
+`#vuforia` `#unity`
 
 ### 요약
 AR-app은 Unity를 이용한 AR 증강현실 어플리케이션입니다.  
