@@ -20,7 +20,7 @@
 - AR-app
 
 
-## [lunch-waiting](https://github.com/banksemi/lunch-waiting)
+## [lunch-waiting](https://github.com/movengers/lunch-waiting)
 `#glide` `#google_map` `#Naver API` `#crawling` `#mysQL` `#recyclerview`
 
 ### 요약  
