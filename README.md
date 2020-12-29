@@ -32,7 +32,7 @@ lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 �
 - **Client**
 
  1. Socket Commucation  
-  > Thead와 Handler를 통해 구현되었고 Service를 사용해 Background에서 실시간 알림을 받습니다.
+  Thead와 Handler를 통해 구현되었고 Service를 사용해 Background에서 실시간 알림을 받습니다.
  2. GPS service  
   > 사용자의 GPS를 기반으로 주변 식당을 Google Map에서 보여줍니다.
  3. Notification  
@@ -54,7 +54,8 @@ lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 �
 또한 게시판에 원하는 글을 남기고 댓글을 달 수 있습니다.  
 
 > 하단 이미지를 누르시면 유튜브로 넘어갑니다.  
-[![lunch waiting 데모](https://img.youtube.com/vi/V3zJFMWD8Es/0.jpg)](https://www.youtube.com/watch?v=V3zJFMWD8Es)
+[![lunch waiting 데모](https://img.youtube.com/vi/V3zJFMWD8Es/0.jpg)](https://www.youtube.com/watch?v=V3zJFMWD8Es)  
+
 ---
 
 ## [todo-Application](https://github.com/JJangA9/TodoApplication)
@@ -78,7 +79,9 @@ todo-Application은 유저의 일정을 저장하고 해당 날짜가 다가오�
 알림 수신여부는 환경설정에서 설정할 수 있습니다.  
 
 > 하단 이미지를 누르시면 유튜브로 넘어갑니다.  
-[![Todo Application 데모](https://img.youtube.com/vi/ehVcs0IErOY/0.jpg)](https://www.youtube.com/watch?v=ehVcs0IErOY)
+[![Todo Application 데모](https://img.youtube.com/vi/ehVcs0IErOY/0.jpg)](https://www.youtube.com/watch?v=ehVcs0IErOY)  
+
+---
 
 ## [AR-app](https://github.com/JJangA9/AR-app)  
 
