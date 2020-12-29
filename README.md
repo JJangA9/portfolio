@@ -34,11 +34,11 @@ lunch-waiting은 가천대학교 근처 식당의 대기시간을 알려주는 �
  1. Socket Commucation  
   Thead와 Handler를 통해 구현되었고 Service를 사용해 Background에서 실시간 알림을 받습니다.
  2. GPS service  
-  > 사용자의 GPS를 기반으로 주변 식당을 Google Map에서 보여줍니다.
+  사용자의 GPS를 기반으로 주변 식당을 Google Map에서 보여줍니다.
  3. Notification  
-  > 대기시간을 요청했을때 또는 댓글이 달리면 상단바에 알림을 띄워줍니다.
+  대기시간을 요청했을때 또는 댓글이 달리면 상단바에 알림을 띄워줍니다.
  4. Glide Library  
-  > 식당 이미지를 나타내는데 사용됩니다.  
+  식당 이미지를 나타내는데 사용됩니다.  
   
 - **Server**  
 
